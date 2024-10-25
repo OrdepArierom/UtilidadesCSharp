@@ -1,0 +1,15 @@
+C:\Users\PedroGonçalves\source\repos\Utilidades\Utilidades\bin\Debug\net6.0\FodyWeavers.xml
+C:\Users\PedroGonçalves\source\repos\Utilidades\Utilidades\bin\Debug\net6.0\Utilidades.deps.json
+C:\Users\PedroGonçalves\source\repos\Utilidades\Utilidades\bin\Debug\net6.0\Utilidades.dll
+C:\Users\PedroGonçalves\source\repos\Utilidades\Utilidades\bin\Debug\net6.0\Utilidades.pdb
+C:\Users\PedroGonçalves\source\repos\Utilidades\Utilidades\obj\Debug\net6.0\Utilidades.csproj.AssemblyReference.cache
+C:\Users\PedroGonçalves\source\repos\Utilidades\Utilidades\obj\Debug\net6.0\Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PedroGonçalves\source\repos\Utilidades\Utilidades\obj\Debug\net6.0\Utilidades.AssemblyInfoInputs.cache
+C:\Users\PedroGonçalves\source\repos\Utilidades\Utilidades\obj\Debug\net6.0\Utilidades.AssemblyInfo.cs
+C:\Users\PedroGonçalves\source\repos\Utilidades\Utilidades\obj\Debug\net6.0\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\PedroGonçalves\source\repos\Utilidades\Utilidades\obj\Debug\net6.0\Utilidades.csproj.Fody.CopyLocal.cache
+C:\Users\PedroGonçalves\source\repos\Utilidades\Utilidades\obj\Debug\net6.0\Utilidades.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\PedroGonçalves\source\repos\Utilidades\Utilidades\obj\Debug\net6.0\Utilidades.dll
+C:\Users\PedroGonçalves\source\repos\Utilidades\Utilidades\obj\Debug\net6.0\refint\Utilidades.dll
+C:\Users\PedroGonçalves\source\repos\Utilidades\Utilidades\obj\Debug\net6.0\Utilidades.pdb
+C:\Users\PedroGonçalves\source\repos\Utilidades\Utilidades\obj\Debug\net6.0\ref\Utilidades.dll
